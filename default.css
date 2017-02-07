@@ -1,0 +1,103 @@
+/*commentaires*/
+#menu {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%
+}
+#menu li {
+  display: inline-block;
+  border: 2px solid blue;
+  text-align: center;
+  background-color: white;
+  font-weight: bold;
+  font-size: 2.7vw;
+  width: 30%
+}
+#menu ol{
+  padding: 0px;
+  width: auto;
+  text-align: center
+}
+.about{
+  text-align: center;
+  font-style: italic;
+  font-size: 4vw
+}
+.aboutborder{
+  border: 2px solid blue
+}
+.abouttitle{
+  text-align: center;
+  font-style: italic;
+  font-size: 7vw
+}
+.block {
+  text-align: center
+}
+.block img {
+  max-width: 20%
+}
+.gentitle {
+  font-weight: bold;
+  font-size: 7vw;
+  color: red;
+  text-align: center
+}
+.head{
+  text-align: center;
+  margin-top: 50px
+}
+.head img{
+  max-width: 100%
+}
+.infoplant {
+  border: 2px solid green;
+  background-color: white;
+  font-size: 3.5vw
+}
+li {
+  list-style-image: url(./img/puce.jpg);
+  font-size: 3vw
+}
+.list {
+  width: 55vw;
+  margin-left: auto;
+  margin-right: auto
+}
+.list img {
+  width: 7vw
+}
+.list ul li{
+  font-size: 3vw
+}
+.plant{
+  background-image: url(./pkm/bg/plant.jpg);
+}
+.ptop{
+  border: 2px solid green;
+  background-color: white;
+  margin-top: 70px
+}
+.pkmtop{
+  display: inline-block;
+  width: 70%;
+  font-size: 5vw;
+}
+.pkmtop img{
+  width: 15vw
+}
+.pkmtopimg{
+  display: inline-block;
+  width: 20%
+}
+.pkmtopimg img{
+  width: 100%
+}
+.title {
+  text-align: center;
+  font-size: 8vw;
+  max-width: 100%;
+  font-weight: bold;
+  color: Blue
+}
